@@ -7,13 +7,13 @@
 4. 👉 Name we can give according to any country People
 5. 👉 This software automatically enters the user ID and password. From Config File
 
-# conditions
+# Conditions
 1. 👉 Your computer must be powerful
 2. 👉 If your computer is not powerful, it will hang
 3. 👉 Internet speed should be of high level
 4. 👉 If your internet is not high speed then it will delay in Participants
 
-# Requirement
+# Requirement 📝
 1. Python 3.9.0
 2. pip install selenium==3.141.0
 3. pip install tbselenium==0.5.3
