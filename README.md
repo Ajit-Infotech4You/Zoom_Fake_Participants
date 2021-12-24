@@ -34,6 +34,8 @@ Contact with me to get the Password of Zip 📁 file on :
 
 🆔 Crypto : USDT TRC20 :- TXxjQ3PfhQTmLUC5Mv8q4377bZ8nEm5zH5 $$$$
 
+🛒 Price : 40 USDT :- For Unlimited PC USE
+
 -------------------------------------------------------------------------------------
 
 ![Zoom Participants](https://user-images.githubusercontent.com/95950194/147309545-6269ec3c-48a0-42ea-a2c5-85da4a499eca.jpg)
