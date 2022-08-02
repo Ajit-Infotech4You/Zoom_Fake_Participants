@@ -14,9 +14,8 @@
 4. 👉 If your internet is not high speed then it will delay in Participants
 
 # Requirement 📝
-1. Python 3.9.0
-2. pip install selenium==3.141.0
-3. pip install tbselenium==0.5.3
+1. Python 3.10.3
+
 
 ----------------------------------------------------------------------------------------------------------------------
 
